@@ -63,22 +63,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="259" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601830444035" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1601831598132">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1601904509942">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601831598132" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1601831598132">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601904509942" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1601904509942">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601831598132" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1601831598132">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601904509942" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1601904509942">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601831598132" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1601831598132">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601904509942" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1601904509942">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601831598132" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601904509942" />
     <state width="1557" height="272" key="GridCell.Tab.1.bottom" timestamp="1601830281134">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -95,6 +95,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="272" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1601830281134" />
+    <state x="345" y="166" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601904418329">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="345" y="166" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1601904418329" />
     <state x="0" y="55" key="new project wizard" timestamp="1601826827496">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -107,5 +111,20 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="167" y="200" width="672" height="677" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1601830244706" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/customerprojects/CustomerProjectsApp.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

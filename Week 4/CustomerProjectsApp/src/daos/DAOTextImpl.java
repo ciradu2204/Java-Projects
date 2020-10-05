@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class DAOTextImpl extends Repository implements DAOInterface {
+public class DAOTextImpl implements DAOInterface {
 
     static final char DELIMITER = ',';
 
@@ -16,7 +16,7 @@ public class DAOTextImpl extends Repository implements DAOInterface {
 
     @Override
     public Repository load(String filename) {
-
+        Repository repository = new Repository();
         try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
             String[] temp;
             String line = br.readLine();
@@ -30,7 +30,7 @@ public class DAOTextImpl extends Repository implements DAOInterface {
                     String project = stripQuotes(temp[i+3]);
                     customer.addProjectToCustomer(project);
                 }
-                this.items.add(customer);
+                repository.add(customer);
                 line = br.readLine();
             }
             br.close();
@@ -39,7 +39,7 @@ public class DAOTextImpl extends Repository implements DAOInterface {
         }
 
 
-        return this;
+        return repository;
     }
 
     @Override
@@ -52,5 +52,9 @@ public class DAOTextImpl extends Repository implements DAOInterface {
             Logger.getLogger(Repository.class.getName()).log(Level.SEVERE, null, ex);
         }
 
+    }
+
+    protected String stripQuotes(String str) {
+        return str.substring(1, str.length()-1);
     }
 }

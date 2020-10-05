@@ -80,10 +80,7 @@ public class CustomerProjectsController {
         do {
             int customerId = inputHelper.readInt("Enter Customer Id");
             requiredCustomer = repository.getItem(customerId);
-//            for (Customer customer:this.repository) {
-//                if (customer.getCustomerId() == customerId)
-//                    requiredCustomer = customer;
-//            }
+
             if (requiredCustomer != null) {
                 validCustomerId = true;
             }
@@ -100,10 +97,7 @@ public class CustomerProjectsController {
         do {
             int customerId = inputHelper.readInt("Enter Customer Id");
             requiredCustomer = repository.getItem(customerId);
-//            for (Customer customer:this.repository) {
-//                if (customer.getCustomerId() == customerId)
-//                    requiredCustomer = customer;
-//            }
+
             if (requiredCustomer != null) {
                 validCustomerId = true;
             }
@@ -113,18 +107,8 @@ public class CustomerProjectsController {
         requiredCustomer.removeProjectFromCustomer(projectNumber);
     }
     
-//     public void store(String filename) {
-//        try (PrintWriter output = new PrintWriter(filename)) {
-//            for (Customer customer:this.repository) {
-//                output.print(customer.toString(DELIMITER));
-//            }
-//            output.close();
-//        } catch (FileNotFoundException ex) {
-//            Logger.getLogger(CustomerProjectsController.class.getName()).log(Level.SEVERE, null, ex);
-//        }
-//    }
-    
-//    private String stripQuotes(String str) {
-//        return str.substring(1, str.length()-1);
-//    }
+
+    private String stripQuotes(String str) {
+        return str.substring(1, str.length()-1);
+    }
 }
