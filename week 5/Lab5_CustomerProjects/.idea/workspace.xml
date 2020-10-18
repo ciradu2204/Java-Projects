@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17f2f570-a60a-4fe3-8aba-05abc5a20120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iv1EQHnAOJpiGlUt5KMK8irVt7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pc\Downloads\Lab5_CustomerProjectsAppStarter\Lab5_CustomerProjectsAppStarter\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CustomerProjectsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="customerprojects.CustomerProjectsApp" />
+      <module name="Lab5_CustomerProjectsAppStarter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerProjectsApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17f2f570-a60a-4fe3-8aba-05abc5a20120" name="Default Changelist" comment="" />
+      <created>1602773139804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602773139804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1603036107393">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="253" y="143" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1603036107393" />
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom" timestamp="1603042805226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603042805226" />
+    <state width="1557" height="220" key="GridCell.Tab.0.center" timestamp="1603042805226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603042805226" />
+    <state width="1557" height="220" key="GridCell.Tab.0.left" timestamp="1603042805225">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603042805225" />
+    <state width="1557" height="220" key="GridCell.Tab.0.right" timestamp="1603042805226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603042805226" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1603040162811">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603040162811" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1603040162811">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1603040162811" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1603040162811">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1603040162811" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1603040162811">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1603040162811" />
+    <state x="310" y="166" width="979" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603042191998">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="310" y="166" width="979" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1603042191998" />
+    <state x="643" y="187" key="refactoring.ChangeSignatureDialog" timestamp="1603007253493">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="643" y="187" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1603007253493" />
+    <state x="103" y="201" key="run.anything.popup" timestamp="1603042096481">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="103" y="201" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1603042096481" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
