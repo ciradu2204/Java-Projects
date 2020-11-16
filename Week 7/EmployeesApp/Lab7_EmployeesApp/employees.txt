@@ -1,0 +1,7 @@
+1,"Sergi Busquets","Project Leader",5
+2,"Sergi Roberto","Developer",2
+3,"Edgar Davids","Tester",0
+4,"Dani Alves","Developer",9
+5,"Jordi Alba","Developer",4
+6,"Ivan Rakitic","Developer",1
+7,"Luis Suarez","Tester",2
